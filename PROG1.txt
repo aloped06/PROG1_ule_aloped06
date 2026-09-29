@@ -8,3 +8,15 @@ silla https://dle.rae.es/silla?m=form
 ratón  https://dle.rae.es/rat%C3%B3n
 puerta https://dle.rae.es/puerta?m=form
 sílaba https://dle.rae.es/s%C3%ADlaba?m=form
+
+PALABRAS MARTINA ULE
+1. Hombre - https://dle.rae.es/hombre?m=form
+2. Jamón - https://dle.rae.es/jam%C3%B3n?m=form
+3. Paella - https://dle.rae.es/paella?m=form
+4. Tortilla - https://dle.rae.es/tortilla
+5. Promesa - https://dle.rae.es/promesa?m=form
+6. Croqueta - https://dle.rae.es/croqueta?m=form
+7. Pulpo - https://dle.rae.es/pulpo?m=form
+8. Pasta - https://dle.rae.es/pasta?m=form
+9. Patata - https://dle.rae.es/patata?m=form
+10. Mentira - https://dle.rae.es/mentira?m=form
